@@ -108,6 +108,7 @@ var menu=[
 {id:"Reddit/Programming",cat:"Social",des:"Programming subreddit shares user submitted articles on Programming.",uri:"https://reddit.com/r/programming/.rss",ext:"https://reddit.com/r/Programming"},
 {id:"Reddit/San Francisco",cat:"Social",des:"San Francisco subreddit for the gorgeous City by the Bay! San Francisco, California, USA.",uri:"https://reddit.com/r/sanfrancisco/.rss",ext:"https://reddit.com/r/SanFrancisco"},
 {id:"Reddit/Software",cat:"Social",des:"Software subreddit where software applications are discussed.",uri:"https://reddit.com/r/software/.rss",ext:"https://reddit.com/r/Software"},
+{id:"Reddit/SoftwareGore",cat:"Social",des:"poke fun at nasty software",uri:"https://www.reddit.com/r/softwaregore//.rss",ext:"https://www.reddit.com/r/softwaregore/"},
 {id:"4chan Sports",cat:"Social",des:"4chan SP is a Sports board that discusses International Sports.",uri:"http://boards.4chan.org/sp/index.rss",ext:"http://boards.4channel.org/sp/"},
 {id:"Reddit/Sports",cat:"Social",des:"Sports subreddit for all the Latest Headlines and Discussion in Sports.",uri:"https://reddit.com/r/sports/.rss",ext:"https://reddit.com/r/Sports"},
 {id:"Reddit/Tech",cat:"Social",des:"Tech subreddit the Intelligent Discussion of Innovations and changes to Technology.",uri:"https://reddit.com/r/tech/.rss",ext:"https://reddit.com/r/Tech"},
